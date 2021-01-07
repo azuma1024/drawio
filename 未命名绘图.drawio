@@ -1,1 +1,121 @@
-<mxfile host="app.diagrams.net" modified="2021-01-06T02:51:32.212Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="xqRNQAvZAcXGobZxOX_1" version="14.1.8" type="github"><diagram id="QnBwPJPDw9IE5iMdzLzo" name="Page-1">7VvbcuI4EP0aPW7KkvHtEYPZmanZSqoyu5s8bQlbgHeMRRmRQL5+JVvCV4gJYNgM5CFS64Ks06e71RZAH8zXvyd4MfuDBiQCSAvWQB8ChGDP1vk/IdlkEksJpkkYyE654DF8I1KoSekqDMiy1JFRGrFwURb6NI6Jz0oynCT0tdxtQqPyty7wlNQEjz6O6tK/w4DNMqmNrFz+hYTTmfpmaDpZyxyrzvJJljMc0NeCSPeAPkgoZVlpvh6QSGye2pds3GhH63ZhCYlZmwHfngaDuTf6axWjxx+D5G1mIO83OcsLjlbygeVi2UbtQEJXcUDEJBDoLk58CRJHSHcDvJxt25YsoT/JgEY0SYfqWvrhLZMwipQ8pjEf7k4THIR86RWxmPABM0aSmAttvhSuLxpM/6tvUEDwLXQjPCaRi/2f03SdhS+fpB/eZcbmkVyhfFqSMLLeuY1wCw7XakLnhCUb3kUOMB2Jp1RoqFThNVcPR5d9ZkXVsKQQS5WcbufOUeMFCdwBIKL3QSQB12pZlTud4yoQogmb0SmNcfSd0oXcrn8JYxsJN14xWt7MCY3ZCM/DSOzEFxK9EBb6mDfwnUw2T3LitPIsKneGqg7XxcbhRtayVYul7seGPxldJT7ZsyU9aSpwMiVsTz+7GeuERJiFL+V1NOEmhz7QkK9wqyPIKusINwt3TvFTnjBbpZyjogvbRX1cPfROtIGsQ/aUw8xrz4WWHHFR2RThfyrrxnNJNZoVZafmXUCDjCM16Cjm92rMh3fiD3gWcAzgasAzgO2KsmeCPgS2LQrcB9uGaOprwIXA41UI+l7aeQQcUxRcDzjcspkRf3h3nPDSVJSANwLugM/zNaA4VjVnj9cQgL3OQkYeFzjd8VceKZR1Z4cRl6pZdB7crgeY2BO/yd2Yvk3Gk9OYeaNi5W1Us/Kw12DlzXMZeaMBanSD+vRQ69qloTbr/rwOl0RSFeyhkvSVpFdDiu8RK8NR3tgGFKQIR+FUBGQ+31PC5a7YcW5zo75smIdBIL6mEf+yhrQI2U6AKtQrPthsgFVrgBWdC1brysK0EzpLu6WzhFozZt14S7uBVzuN59dhaj49URO9eqBvp8xCwNXTgi7sYVbgVlEWzGqToyR992PW118t2T+pCQ4Dn5+vL2GITQ070GoyxGhomZqKyc5EZR1dmzN2Pi+VVeLlfS5fkspqlSUu24JdrqW47Jwq/iHzxTc6/vV4Z2jXxjvYkK9qHxo5oxYRUUKW4Rsepx3E/i7EsTx9DsMFxlDEQpyXS5kDK4RGEZmwhsCICW67S64PYTz9kRKdH9tOgg+Cxrv42F1GOLAbM6hSDapcyC61SDUclpPqxOTqbU3uRZMNapkF8n2/v3/gksPOoGc0nycglQUrRq9Xz+92bPTqB7kbq1qwymjLqmOTwMehW0/sAK8H3L4gkmARp80w5dUQOHbaNCyc9j8SydyNV8swJsvln3HILhHW8AgF+Y15ncAcm4Z5GiY7egsmm50y2dzL5Jy0Xi69rsw8vAZit8426EcSOx3aTxK8KXSQAWE+c+XlD0S9SubJMIuaUxtg2Xv780K2hJO+FILWzamcU/fQRTNd8KhUl5EmkTvIeX0yhwO33uR6PE7drd88zsGsR61zYpfxOEYlQYqsAz2O1YHHQfWUXXp8lEkaVxoaYVYOeqNpiCE2N1iOSPn164elM5oV2yfNZmVsGz1DO5FZ6fWuzaygeh5OXDtAd8pbGGVPkDmAPbDe3kZv0a4lINSNycuhjRqiicz1W2XXz5Ef/cIJWadyNxA13A2EsMuMLKrn7M52l+B/BBTUq7kBdQmkeIuzU6BuSb4PncdaBma79KGb4xhqyvGVHWV+dtJVk7PPyH42t1e5hIXqdGy8rHM+n1e/hHUfYIavA5PLvheG1ePDxcFquFr1+c8F1WPB5WFoyjpleaChYomtCKTMXH90HZTqJkWkw84w49X8x0XZIT7/iZbu/Qc=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-01-07T10:08:21.206Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.88 Safari/537.36" etag="2RlDI7Vv8p__EtJAyqbS" version="14.1.8" type="github">
+  <diagram id="QnBwPJPDw9IE5iMdzLzo" name="Page-1">
+    <mxGraphModel dx="1038" dy="548" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="JXCCmEFVun2STCrzh52E-1" value="" style="rounded=1;arcSize=10;dashed=1;strokeColor=#000000;fillColor=none;gradientColor=none;dashPattern=8 3 1 3;strokeWidth=2;labelBackgroundColor=#ffffff;html=1;" parent="1" vertex="1">
+          <mxGeometry x="690" y="127" width="930" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-2" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="JXCCmEFVun2STCrzh52E-4" target="JXCCmEFVun2STCrzh52E-8" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="270" y="211.9999999999999" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-3" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="JXCCmEFVun2STCrzh52E-4" target="JXCCmEFVun2STCrzh52E-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-4" value="1.1.異動案情報の取得&lt;br&gt;（Idoan）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="50" y="182" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUM6V3ECuglwkeUMpwaq-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="JXCCmEFVun2STCrzh52E-5" target="fUM6V3ECuglwkeUMpwaq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-5" value="1.2.異動案情報の取得&lt;br&gt;（Idoan）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="50" y="302" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-6" value="取得できない" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="130" y="260" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-7" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="1" source="JXCCmEFVun2STCrzh52E-8" target="JXCCmEFVun2STCrzh52E-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-8" value="異動案ID採用コードテーブルの取得&lt;br&gt;（cust_Idoanidcode）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="320" y="182" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-9" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;" parent="1" source="JXCCmEFVun2STCrzh52E-10" target="JXCCmEFVun2STCrzh52E-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-10" value="職務情報の取得&lt;br&gt;（empJob）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="500" y="182" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-11" value="取得できた" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="215" y="182" width="80" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="JXCCmEFVun2STCrzh52E-13" target="JXCCmEFVun2STCrzh52E-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-13" value="LOOP 異動案情報" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="710" y="147" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="JXCCmEFVun2STCrzh52E-15" target="JXCCmEFVun2STCrzh52E-18" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-15" value="事業単位の取得&lt;br&gt;（empJob.businessUnit）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="930" y="147" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="JXCCmEFVun2STCrzh52E-18" target="JXCCmEFVun2STCrzh52E-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1240" y="256" />
+              <mxPoint x="780" y="256" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="JXCCmEFVun2STCrzh52E-18" target="JXCCmEFVun2STCrzh52E-20" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-18" value="異動案ID採番用コードテーブルの取得" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="1160" y="147" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="JXCCmEFVun2STCrzh52E-20" target="JXCCmEFVun2STCrzh52E-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1520" y="276" />
+              <mxPoint x="780" y="276" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-20" value="LOOPから異動案情報削除" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="1440" y="147" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-21" value="1.1.2.サブの異動案取得&lt;br&gt;（Idoan）" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="1710" y="183" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-22" value="データ取得できた" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="990" y="227" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-23" value="取得できない" style="text;html=1;resizable=0;points=[];autosize=1;align=left;verticalAlign=top;spacingTop=-4;" parent="1" vertex="1">
+          <mxGeometry x="1330" y="150" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Helvetica;" parent="1" source="JXCCmEFVun2STCrzh52E-1" target="JXCCmEFVun2STCrzh52E-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-25" value="サービスデータ" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+          <mxGeometry x="50" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-26" value="Odataデータ" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="1" vertex="1">
+          <mxGeometry x="180" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-27" value="削除" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
+          <mxGeometry x="440" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="JXCCmEFVun2STCrzh52E-28" value="ロジックデータ" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
+          <mxGeometry x="310" y="20" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUM6V3ECuglwkeUMpwaq-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="fUM6V3ECuglwkeUMpwaq-1" target="fUM6V3ECuglwkeUMpwaq-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fUM6V3ECuglwkeUMpwaq-1" value="1.3.処理件数カウント" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="420" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="fUM6V3ECuglwkeUMpwaq-3" value="取得できない" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="130" y="380" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="fUM6V3ECuglwkeUMpwaq-6" value="1.4.オンライン上限値チェック" style="rounded=0;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="50" y="560" width="140" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
